@@ -1,0 +1,56 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.navBar {
+    display:inline-block;
+    background-color: navy;
+    color: white;
+    padding: 12px 20px 12px 20px;
+}
+
+.leftContainer {
+    width:29%;
+    float:left;
+    background-color: blue;
+}
+
+.profileContainer {
+    height: 300px;
+    background-color:teal;
+    text-align:center;
+    padding: 50px;
+    color:lightBlue;
+    text:strong;
+}
+
+.profileInformation{
+    background-color:orange;
+    text-align:center;
+    padding:50px;
+    height:250px;
+}
+
+.rightContainer {
+    width:70%;
+    height:800px;
+    float:left;
+    background-color: teal;
+}
+
+.floatLeft {
+    float:left;
+    padding:15px;
+}
+
+.hero {
+    padding:50px;
+    background-color: lightgrey;
+    height: 300px;
+}
+
+.photoReel {
+    padding:50px;
+    background-color: lightblue;
+    height: 250px;
+}
